@@ -1,6 +1,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 #include<unitstd.h>
+#include<sys/types.h>
 struct process
 {
 int pid,bt,wt,tt;
