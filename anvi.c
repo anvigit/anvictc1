@@ -1,12 +1,3 @@
-dbddbhf
-dnkefnkfn
-B
-B
-i
-B
-A
-C
-
 #include<stdlib.h>
 #include<stdio.h>
 
